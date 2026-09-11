@@ -1,0 +1,14 @@
+train:
+  - C:/Users/SARFARAZ I/disaster-survivor-yolo/datasets/search-and-rescue/train/images
+  - C:/Users/SARFARAZ I/disaster-survivor-yolo/datasets/heridal1/train/images
+
+val:
+  - C:/Users/SARFARAZ I/disaster-survivor-yolo/datasets/search-and-rescue/valid/images
+  - C:/Users/SARFARAZ I/disaster-survivor-yolo/datasets/heridal1/valid/images
+
+test:
+  - C:/Users/SARFARAZ I/disaster-survivor-yolo/datasets/search-and-rescue/test/images
+  - C:/Users/SARFARAZ I/disaster-survivor-yolo/datasets/heridal1/test/images
+
+names:
+  0: human
